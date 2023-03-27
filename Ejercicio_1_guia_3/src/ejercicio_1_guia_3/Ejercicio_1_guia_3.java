@@ -5,6 +5,8 @@
  */
 package ejercicio_1_guia_3;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Zere
@@ -15,7 +17,8 @@ public class Ejercicio_1_guia_3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Scanner leer = new Scanner(System.in);
+        
     }
     
 }
